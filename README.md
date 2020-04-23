@@ -1,2 +1,2 @@
 # iSeeFace
-Face analysis
+请下载release版本
